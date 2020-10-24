@@ -1,0 +1,45 @@
+{
+  "name": "TextBot",
+  "version": "0.0.1",
+  "description": "xd",
+  "main": "node .",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "discord.js": "^12.4.0",
+    "discordimgs": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "eris-additions": "^1.4.1",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "google-play-scraper": "^8.0.2",
+    "humanize-duration": "^3.24.0",
+    "math-expression-evaluator": "^1.2.22",
+    "megadb": "^3.4.0",
+    "meowdb": "^2.1.6",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node-google-translate-skidz": "^1.1.2",
+    "opusscript": "0.0.7",
+    "rands-codes": "0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "solenolyrics": "^5.0.0",
+    "superagent": "^6.1.0",
+    "ytdl-core": "^3.3.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
